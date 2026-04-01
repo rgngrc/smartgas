@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "scripts": {
+    "install": "cd smartgas && npm install",
+    "dev": "cd smartgas && npm run dev -- --host 0.0.0.0",
+    "build": "cd smartgas && npm run build"
+  }
+}
